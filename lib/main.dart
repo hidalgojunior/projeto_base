@@ -4,9 +4,3 @@ import 'package:projects/app.dart';
 void main() {
   runApp(const App());
 }
-
-
-
-
-
-
