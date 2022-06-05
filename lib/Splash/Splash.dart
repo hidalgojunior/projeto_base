@@ -29,7 +29,7 @@ class _SplashState extends State<Splash> {
             padding: const EdgeInsets.only(
                 left: 20, right: 20, top: 44.92, bottom: 46.55),
             child: Image.asset(
-              "assets/images/image.jpg",
+              "assets/images/logo5.png",
               width: 559.67,
               height: 109.14,
               alignment: Alignment.center,
